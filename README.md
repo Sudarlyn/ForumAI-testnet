@@ -1,0 +1,2 @@
+# ForumAI-testnet
+testnet
